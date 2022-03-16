@@ -40,7 +40,14 @@
 
 ## Projeden fotoğraflar / Photos from the project
 
+>Ana Sayfa / Home Page
 
 ![photo 1](/ProjectsImages/Home%20Page.png)
+
+>Ürünler / Products
+
 ![photo 1](/ProjectsImages/Products.png)
+
+>Hakkımızda / About Us 
+
 ![photo 1](/ProjectsImages/About%20Us.png)
